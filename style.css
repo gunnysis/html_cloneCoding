@@ -1,0 +1,266 @@
+.header_user {
+    display: flex;
+    justify-content: end;
+    padding: 8px 40px 8px 40px;
+    
+}
+
+.header_main {
+    display: flex; 
+    padding: 0 40px;
+    border-top: 0.5px solid gray;
+}
+
+.gnb_group {
+    display: flex;
+}
+.gnb_area {
+    margin-left: auto;
+    padding-top: 20px;
+}
+
+.gnb_glasses {
+    padding-top: 20px;
+}
+
+.gnb_glasses > img {
+    width: 0.9em;
+    height: 0.9em;
+}
+
+.title {
+    margin-right: auto;
+}
+
+.top_list {
+    text-decoration-line: none;
+    color: black;
+    margin-left: 20px;
+    font-size: 0.8em;
+}
+
+.gnb_list {
+    text-decoration-line: none;
+    color: black;
+    margin-left: 20px;
+}
+
+.wrap {
+    margin: 40px 40px 0 40px;
+}
+
+.shortcut_items {
+    display: flex;
+    flex-direction: row;
+}
+
+.shortcut_item {
+    margin-right: 40px;
+    
+}
+
+.shortcut_collection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.shortcut_item > img {
+    width: 200px;
+    height: 100px;
+    
+}
+
+nav {
+    margin: 40px 0 40px 0;
+
+}
+
+.shorts_info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.stuffs_wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.stuffs {
+    display: flex;
+    flex-direction: row;
+}
+
+.stuff {
+    margin-right: 30px;
+}
+
+.stuff_img, .stuff_img1> img{
+    background-color: #D4F4FA;
+    height: 250px;
+    width: 300px;
+    border: 4px dotted #FAECC5;
+}
+
+.stuff_img, .stuff_img2> img{
+    background-color: #F6F6F6;
+    height: 250px;
+    width: 300px;
+    border: 4px dotted #FAECC5;
+}
+
+.stuffsmore_btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.stuffsmore_btn > button {
+    width: 100px;
+    height: 45px;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid #EAEAEA;
+}
+
+.brands_info, .brands_wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.brand {
+    display: block;
+    float: left;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.brands {
+    margin-top: 20px;
+}
+
+.brands_wrap {
+    border-top: 0.5px solid #EAEAEA;
+    border-bottom: 0.5px solid #EAEAEA;
+}
+
+.brand > img {
+    width: 270px;
+    height: 160px;
+    border-radius: 10px;
+}
+
+#img_box {
+    padding-top: 50px;
+}
+
+#img_box  > img{
+    width: 100%;
+    height: 450px;
+}
+
+#banner > img {
+    width: 100%;
+    height: 500px;
+}
+
+footer {
+    padding: 50px 40px;
+    background-color: #EAEAEA;
+}
+
+.service_area {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 0.5px solid grey;
+}
+
+.footer_menu {
+    display: flex;
+    flex-direction: row;
+    margin-right: auto;
+    
+}
+
+.menu_use {
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+}
+
+.menu_use > h4 {
+    margin-bottom: 10px;
+}
+
+.menu_use > p {
+    margin: 7px 0px;
+    color: grey;
+}
+
+.menu_support > h4 {
+    margin-bottom: 15px;
+}
+
+.menu_support > p {
+    margin: 10px 0px;
+    color: grey;
+}
+
+.customer_service {
+    margin-left: auto;
+}
+.customer_service > h4 {
+    margin-bottom: 15px;
+}
+
+.customer_service > p {
+    margin: 10px 0px;
+    color: grey;
+}
+
+.qst {
+    display: block;
+    padding-top: 10px;
+}
+
+.qst_btn {
+    padding: 5px;
+    border-radius: 3px;
+    background-color: black;
+    color: white;
+}
+
+#company {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.company_info {
+    margin-right: auto;
+    flex-direction: row;
+}
+
+.company_icon {
+    margin-left: auto;
+    flex-direction: row;
+}
+
+.company_info > a {
+    text-decoration-line: none;
+    color: black;
+    margin-right: 5px;
+}
+
+.company_icon > a {
+    padding-right: 10px;
+}
+
+.company_intro > pre {
+    color: grey;
+}
