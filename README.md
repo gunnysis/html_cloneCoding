@@ -1,7 +1,6 @@
-# I directly developed and designed these pages.
+# I directly developed and designed main page like the shopping mall main page.
 ## setting evironment: HTML, CSS
 
-
-## It Mimicked the 'KREAM' shopping mall main page.
+It Mimicked the 'KREAM' shopping mall main page.
 
 
